@@ -1,6 +1,5 @@
 from tests.tests import test_number_to_pair, test_pair_to_number
-MAJOR_COLORS = ['White', 'Red', 'Black', 'Yellow', 'Violet']
-MINOR_COLORS = ["Blue", "Orange", "Green", "Brown", "Slate"]
+
 
 
 if __name__ == '__main__':
